@@ -1,0 +1,9 @@
+{
+  "name": "LCA Medical Trainer - FINAL APP",
+  "description": "A high-fidelity cyberpunk-themed medical training interface for analyzing clinical articles, performing PICO assessments, and conducting rapid protocol exams.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
